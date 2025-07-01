@@ -48,17 +48,6 @@
                 "sitepic": "..\/img\/logo\/fitcas.png"
             },
             {
-                "url": "https:\/\/most-link.com\/blackcasino6",
-                "desc": [
-                    "150.000₺ HOŞ GELDİN BONUSU",
-                    "%10 HAFTALIK KAYIP BONUSU"
-                ],
-                "site": "mostbet",
-                "sort": "null",
-                "color": "#e42421",
-                "sitepic": "..\/img\/logo\/mostbet.png"
-            },
-            {
                 "url": "https://inagaming.biz/?btag=196121",
                 "desc": [
                     "%50 HOŞ GELDİN BONUSU",
@@ -114,17 +103,6 @@
                 "sitepic": "..\/img\/logo\/tlcasino.png"
             },
             {
-                "url": "https:\/\/cutt.ly\/2406755",
-                "desc": [
-                    "250₺ DENEME BONUSU",
-                    "%30 KAYIP BONUSU"
-                ],
-                "site": "betovis",
-                "sort": "null",
-                "color": "#960419",
-                "sitepic": "..\/img\/logo\/betovis.png"
-            },
-            {
                 "url": "https:\/\/t.ly\/betraaff?btag=2230",
                 "desc": [
                     "200₺ DENEME BONUSU",
@@ -156,6 +134,17 @@
                 "sort": "null",
                 "color": "#e8b20d",
                 "sitepic": "..\/img\/logo\/kingroyal.png"
+            },
+            {
+                "url": "https:\/\/t2m.io\/BCPelican",
+                "desc": [
+                    "200₺ DENEME BONUSU",
+                    "%20 KAYIP BONUSU"
+                ],
+                "site": "baycponti",
+                "sort": "null",
+                "color": "#efa300",
+                "sitepic": "..\/img\/logo\/bayconti.png"
             }
         ],
         "social": {
@@ -214,7 +203,7 @@
                         "bg": "3.jpg"
                     },
                     {
-                        "site": "fitcas",
+                        "site": "bayconti",
                         "sort": "4",
                         "bg": "4.jpg"
                     }
@@ -232,7 +221,7 @@
                         "sort": "1"
                     },
                     {
-                        "site": "mostbet",
+                        "site": "fitcas",
                         "sort": "2"
                     },
                     {
@@ -254,10 +243,6 @@
                     {
                         "site": "tlcasino",
                         "sort": "7"
-                    },
-                    {
-                        "site": "betovis",
-                        "sort": "8"
                     },
                     {
                         "site": "betra",
