@@ -145,6 +145,17 @@
                 "sort": "null",
                 "color": "#efa300",
                 "sitepic": "..\/img\/logo\/bayconti.png"
+            },
+            {
+                "url": "https:\/\/a.info\/piapelican",
+                "desc": [
+                    "%300 HOŞGELDİN BONUSU",
+                    "%15 Kayıp Bonusu"
+                ],
+                "site": "piabet",
+                "sort": "null",
+                "color": "#0251a9",
+                "sitepic": "..\/img\/logo\/piabet.png"
             }
         ],
         "social": {
@@ -251,6 +262,10 @@
                     {
                         "site": "makrobet",
                         "sort": "10"
+                    },
+                    {
+                        "site": "piabet",
+                        "sort": "11"
                     }
                 ]
             },
